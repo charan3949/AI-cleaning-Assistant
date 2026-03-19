@@ -52,3 +52,9 @@ OUTPUT:
 
 # Security Note
 API key is NOT included for security reasons.
+
+
+# Demo
+![App Screenshot](APP_SCREENSHOT.png
+
+
